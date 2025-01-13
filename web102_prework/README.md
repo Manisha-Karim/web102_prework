@@ -68,7 +68,7 @@ Here's a walkthrough of implemented features:
 
   
 
-<iframe  src="https://www.loom.com/embed/1fe05abe3078456d877f1677f2d5e22d?sid=e4c372fe-adec-4eb3-a1c4-3866fae4bafe"  frameborder="0"  webkitallowfullscreen  mozallowfullscreen  allowfullscreen  style="width:100%; height:400px;"></iframe>
+https://www.loom.com/embed/1fe05abe3078456d877f1677f2d5e22d?sid=e4c372fe-adec-4eb3-a1c4-3866fae4bafe
 
   
   
