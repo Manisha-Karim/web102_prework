@@ -7,8 +7,7 @@ Submitted by: **Manisha Karim**
   
 
 **Sea Monster - A crowdfunding app** is a website for the company Sea Monster Crowdfunding. The website has the information about all the games that are funded and the ones 
-
-  waiting for funding.
+waiting for funding.
 
 Time spent: **15** hours spent in total
 
